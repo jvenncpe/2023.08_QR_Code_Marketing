@@ -32,6 +32,9 @@ This methodology indicates the creation of pivot tables tailored to present spec
 
 
 ## Visualization:
+
+![](https://github.com/jvenncpe/QR-Code-Marketing/blob/main/images/1.PNG)
+
 After creating the pivot tables, the visualization plan includes:
 - Combo Chart: It comprises a Comparison Column Chart for "No. of Impressions" and "No. of Scans" with a secondary axis showcasing a line chart for "No. of Conversions from QR Landing." This chart aims to depict the relationship between impressions, scans, and conversions over time.
 
@@ -46,9 +49,10 @@ After creating the pivot tables, the visualization plan includes:
 These visualizations aim to present insights into impressions, scans, conversions, scan-through rates, ad locations, and landing page compositions within the interactive dashboard, facilitating easy interpretation and analysis of the data.
 
 
-![](https://github.com/jvenncpe/QR-Code-Marketing/blob/main/images/1.PNG)
-
 ## The Slicers:
+
+![](https://github.com/jvenncpe/QR-Code-Marketing/blob/main/images/12.PNG)
+
 - Time Period Slicer: This slicer allows the selection of specific months or a range of months within a year. It helps in focusing the charts on particular time periods to analyze performance trends over selected durations.
 - Ad Location Slicer: This slicer is dedicated to selecting specific advertisement locations. It enables users to assess and compare the performance of individual or multiple ad locations, aiding in understanding which locations are more effective.
 - Landing Page Slicer: Similar to the Ad Location slicer, this one facilitates the selection of specific landing pages. It's aimed at evaluating and comparing the performance of different landing pages, providing insights into the effectiveness of each page in driving conversions or interactions.
