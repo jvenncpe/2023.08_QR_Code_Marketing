@@ -12,6 +12,9 @@ Capstone project output from "SP401  Dashboards and Drill-Down Analytics" facili
 This dashboard should visually represent data about risks and opportunities in businesses. We had to design it so that it shows why certain trends happen in important indicators. The goal was to make it easy for users to interact with the dashboard, allowing them to explore the data.
 
 ## Dataset Context
+
+![](https://github.com/jvenncpe/QR-Code-Marketing/blob/main/images/13.PNG)
+
 The QR Code Marketing has three (3) dataset tables. 
 - The first dataset cover metrics related to scanning activities, impressions, scan-through rates, and conversions from QR landing pages within specific time periods. 
 - The second dataset contains information on the number of scans and the location of the advertisements where these scans occurred within different periods.
