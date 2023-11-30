@@ -1,9 +1,4 @@
-
-
 #### *Capstone Project: August 2023*
-
-![](https://github.com/jvenncpe/QR-Code-Marketing/blob/main/images/ezgif.com-gif-maker.gif)
-
 # QR Code Marketing Dashboard
 
 Capstone project output from "SP401  Dashboards and Drill-Down Analytics" facilitated by Project SPARTA from Development Academy of the Philippines. The course aims to teach us skills for creating reports and dashboards that display risks and opportunities in businesses, explaining trends in key indicators. Additionally, we'll grasp creating interactive and automated reports, saving significant time.
@@ -83,3 +78,4 @@ And to illustrate the trick we used at the 5th pivot table wherein the default c
 ---
 ### Overall, this project provided a comprehensive framework for analyzing QR code marketing data, empowering users to glean actionable insights, make informed decisions, and refine marketing strategies.
 # Thank you!
+![](https://github.com/jvenncpe/QR-Code-Marketing/blob/main/images/ezgif.com-gif-maker.gif)
